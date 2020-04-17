@@ -1,0 +1,133 @@
+{
+   "partNumber": "ITEMS01",
+    "mfPartNumber": "9SUBLK",
+    "mfName": null,
+    "field5": "field5",
+    "availabilityDate": "00:00.A",
+    "buyable": "1",
+    "startDate": "07:35:A",
+    "endDate": null,
+    "name": {
+        "fr_CA": "After Party Pullover Hoodie",
+        "en_US": "After Party Pullover Hoodie",
+        "en_CA": "After Party Pullover Hoodie"
+    },
+    "shortDescription": {
+        "fr_CA": "After Party Pullover Hoodie",
+        "en_US": "After Party Pullover Hoodie",
+        "en_CA": "After Party Pullover Hoodie"
+    },
+    "longDescription": {
+        "fr_CA": "Le After Party Pullover est un hoodie en molleton 60 % coton et 40 % polyester, arborant une poche kangourou � l�avant et un design � gauche sur la poitrine et � l'arri�re. Le mannequin mesure 6 pi et porte un mod�le de taille moyenne.",
+        "en_US": "The After Party Pullover Hoodie is a 60% cotton, 40% polyester fleece pullover hooded sweatshirt with a front pouch pocket and graphics at the left chest and back. Model is 6 feet tall and wearing a size Medium.",
+        "en_CA": "The After Party Pullover Hoodie is a 60% cotton, 40% polyester fleece pullover hooded sweatshirt with a front pouch pocket and graphics at the left chest and back. Model is 6 feet tall and wearing a size Medium."
+    },
+    "thumbnail": [
+        "https://images.vans.com/is/image/Vans/9SUBLK-HERO?$WC-THUMBNAIL$"
+    ],
+    "fullImage": [
+        "https://images.vans.com/is/image/Vans/9SUBLK-HERO?$WC-FULLIMAGE$"
+    ],
+    "heroImage": null,
+    "keywords": {
+        "fr_CA": "",
+        "en_US": "",
+        "en_CA": ""
+    },
+    "auxDescription1": {},
+    "auxDescription2": {},
+    "published": {
+        "en_US": "1"
+    },
+    "xupc": null,
+    "masterCategory": "M_FLEECE_F11",
+    "sequence": "100",
+    "urlKeyword": {
+        "fr_CA": "fr_key",
+        "en_US": "US_URL",
+        "en_CA": "ca_key"
+    },
+    "pageTitle": {
+        "fr_CA": "fr_page",
+        "en_US": "US_PAGE_TITLE",
+        "en_CA": "ca_page"
+    },
+    "metaDescription": {
+        "fr_CA": "fr_meta",
+        "en_US": "US_META",
+        "en_CA": "ca_meta"
+    },
+    "imageAltText": {
+        "fr_CA": "fr_image",
+        "en_US": "US_IMAGE_ALT",
+        "en_CA": "ca_image"
+    },
+    "skus": [
+    {
+            "partNumber": "VN:0A49SU:BLK:XL::Test12:",
+            "urlKeyword": {
+                "en_US": ""
+            },
+            "sequence": "103",
+            "overrideAttributes": [
+                {
+                    "SIZE": {
+                        "attribute": {
+                            "identifier": "SIZE",
+                            "name": {
+                                "fr_CA": "Pointure/taille",
+                                "en_US": "Size",
+                                "en_CA": "SIZE",
+                                "es_MX": "Talla"
+                            },
+                            "attributeOtherDetails": {
+                                "sequence": "10",
+                                "displayable": "0",
+                                "facetable": "0",
+                                "comparable": "0",
+                                "searchable": "1"
+                            }
+                        },
+                        "attributeValue": [
+                            {
+                                "valueIdentifier": null,
+                                "value": {},
+                                "attributeValueOtherDetails": {}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "SIZE_MAN_TOPS": {
+                        "attribute": {
+                            "identifier": "SIZE_MAN_TOPS",
+                            "name": {
+                                "fr_CA": "Taille de haut pour hommes",
+                                "en_US": "Men's Top Size",
+                                "en_CA": "Mens Tops Size",
+                                "es_MX": "Talla"
+                            },
+                            "attributeOtherDetails": {
+                                "sequence": "230",
+                                "displayable": "1",
+                                "facetable": "1",
+                                "comparable": "1",
+                                "searchable": "1"
+                            }
+                        },
+                        "attributeValue": [
+                            {
+                                "valueIdentifier": null,
+                                "value": {},
+                                "attributeValueOtherDetails": {}
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    
+    ],
+    "parent": null,
+    "xtaxCode": "PC040100,PC040500"
+}

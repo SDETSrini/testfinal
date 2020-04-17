@@ -1,0 +1,5 @@
+"CatalogEntryAttributeDictionaryAttributeRelationship"
+"PartNumber","AttributeIdentifier","ValueIdentifier","Value","Usage","Delete","LanguageId"
+"LPRODUCT001","COLOR_FAMILY","COLOR_FAMILY_700_ORANGE_SALSIFY",,,"1","-1"
+"LPRODUCT001","COLOR","COLOR_RIO-RED",,,"1","-1"
+"LPRODUCT001","DEPARTMENT","DEPARTMENT_FOOTWEAR_SALSIFY",,,"1","-1"

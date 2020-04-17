@@ -1,0 +1,21 @@
+{
+    "identifier": "COLOR",
+    "name": {
+        "fr_CA": "Sexe",
+        "en_US": "Gender",
+        "en_CA": "Gender",
+        "es_MX": "Departamento"
+    },
+    "source": {
+                 "salsify": "care instruction"
+              },
+    
+    "otherDetails": {
+        "Displayable": "1",
+        "Comparable": "1",
+        "AttributeType": "AllowedValues",
+        "Facetable": "1",
+        "Sequence": "420",
+        "Searchable": "1"
+    }
+}

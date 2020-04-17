@@ -1,0 +1,38 @@
+{
+    "identifier": "COLOR",
+    "valueIdentifier": "White",
+    "value": {
+        "fr_CA": "White",
+        "en_US": "White",
+        "en_CA": "White",
+        "es_MX": "White"
+    },
+    "otherDetails": {
+        "Sequence": "168",
+        "ValueUsage": "1",
+        "Image1" : {
+	        "fr_CA": "WhiteImage1",
+	        "en_US": "WhiteImage1",
+	        "en_CA": "WhiteImage1",
+	        "es_MX": "WhiteImage1"
+	    },
+        "Field2" : {
+	        "fr_CA": "WhiteField2",
+	        "en_US": "WhiteField2",
+	        "en_CA": "WhiteField2",
+	        "es_MX": "WhiteField2"
+	    },
+        "Field3" : {
+	        "fr_CA": "WhiteField3",
+	        "en_US": "WhiteFeild3",
+	        "en_CA": "WhiteFeild3",
+	        "es_MX": "WhiteFeild3"
+	    },
+        "AttributeValueField3" : {
+	        "fr_CA": "WhiteFeild3",
+	        "en_US": "WhiteFeild3",
+	        "en_CA": "WhiteFeild3",
+	        "es_MX": "WhiteFeild3"
+	    }
+    }
+}

@@ -1,0 +1,63 @@
+[{
+		"type": "StlyeColor+Size",
+		"longDescription": "{'fr_CA':'','en_US':'6-Inch Premium Boots','en_CA':''}",
+		"identifier": "TB:010061:713:060:W:2:",
+		"parent": "PA1032001",
+		"Sequence": "1",
+		"AuxDesc1": "",
+		"AuxDesc2": "",
+		"SHOE_SIZE": "{'facetable':'0','attributeName':{'fr_CA':'Pointure de chaussures','en_US':'Shoe Size','en_CA':'Shoe Size'},'value_id':'SHOE_SIZE_000','comparable':'1','value':{'fr_CA':'0','en_US':'0','en_CA':'0'},'searchable':'1'}",
+		"SIZE": "{'facetable':'0','attributeName':{'fr_CA':'Pointure/taille','en_US':'Size','en_CA':'Size'},'value_id':'SIZE_070_M','comparable':'1','value':{'fr_CA':'7 Moyen','en_US':'7 Medium','en_CA':'7 Medium'},'searchable':'1'}",
+		"upc": "649923305160",
+		"shortDescription": "{'fr_CA':'','en_US':'6-Inch Premium Boots','en_CA':''}",
+		"taxCode": "['PC040144','PC040100']",		
+		"Name": "{'fr_CA':'Botte impermÃ©able 6-Inch Premium pour hommes','en_US':'Men 6-Inch Premium Waterproof Boots','en_CA':'Botte impermÃ©able 6-Inch Premium pour hommes'}",
+		"MfPartnumber": "649923305160",
+		"MasterCategory": "MEN_FOOTWEAR",
+		"HeroImage": "http://images.salsify.com/image/upload/s--d01ZaUiU--/jsqvuvew7wtaavclrmo3.jpg"
+	},
+
+	{
+		"type": "StlyeColor",
+		"longDescription": "{'fr_CA':'','en_US':'6-Inch Premium Boots','en_CA':''}",
+		"parent": "BA1032001",
+		"Sequence": "1",
+		"color": "{'field1':{},'facetable':'1','attributeName':{'fr_CA':'Couleur','en_US':'Color','en_CA':'Color'},'value_id':'COLOR_BROWN_NUBUCK-OLIVE_GREEN','image1':{},'comparable':'1','value':{'fr_CA':'Nubuck brun/Vert olive','en_US':'Brown Nubuck/Olive Green','en_CA':'Brown Nubuck/Olive Green'},'field2':{},'image2':{},'searchable':'1'}",
+		"Name": "{'fr_CA':'test-sku','en_US':'test-sku','en_CA':'test-sku'}",
+		"HeroImage": "test-sku-hero-image",
+		"identifier": "PA1032001",
+		"AuxDesc1": "",
+		"AuxDesc2": "",
+		"urlKeyword": "{ 'fr_CA': 'mens-timberland-pro-work-warrior-ripstop-utility-pant-black-a1hz4015-en-ca'}",
+		"pageTitle": "{'fr_CA': 'Timberland | Men’s Timberland PRO Work Warrior Ripstop Utility Pant'}",
+		"metaDescription": "{'fr_CA': '<seo: ProductShortDescription/>'}",
+		"imageAltText": "{'fr_CA': 'Image for <seo:ProductName /> from <seo:StoreName />'}",
+		"shortDescription": "{'fr_CA':'','en_US':'6-Inch Premium Boots','en_CA':''}",
+		"taxCode": "['PC040144','PC040100']",
+		"material": "{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"occupation": "{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"heelHeight":"{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"productFamily":"{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"MasterCategory": "MEN_FOOTWEAR"
+	},
+	
+
+	{
+		"type": "Style",
+		"longDescription": "{'fr_CA':'fr_CAdata','en_US':'6-Inch Premium Boots','en_CA':''}",
+		"material": "{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"occupation": "{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"heelHeight":"{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"productFamily":"{'attributeName': {'fr_CA': 'Name_fr_CA','en_US': 'Name_en_US','en_CA': 'Name_en_CA'},'searchable': '1','comparable': '1','facetable': '0','field1': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image1': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'field2': {	'fr_CA': 'field1FR_CA','en_US': 'field1en_US','en_CA': 'field1en_CA'},'image2': {'fr_CA': 'image1FR_CA','en_US': 'image1en_US','en_CA': 'image1en_CA'},'value_id': 'MATERIAL_CANVAS','value': {'fr_CA': 'Toile',	'en_US': 'Canvas','en_CA': 'Canvas'}}",	
+		"identifier": "BA1032001",
+		"Sequence": "1",
+		"AuxDesc1": "",
+		"AuxDesc2": "",
+		"urlKeyword": "{ 'fr_CA': 'mens-timberland-pro-work-warrior-ripstop-utility-pant-black-a1hz4015-en-ca'}",
+		"pageTitle": "{'fr_CA': 'Timberland | Men’s Timberland PRO Work Warrior Ripstop Utility Pant'}",
+		"metaDescription": "{'fr_CA': '<seo: ProductShortDescription/>'}",
+		"imageAltText": "{'fr_CA': 'Image for <seo:ProductName /> from <seo:StoreName />'}",
+		"shortDescription": "{'fr_CA':'','en_US':'6-Inch Premium Boots','en_CA':''}",		
+		"Name": "{'fr_CA':'Botte impermÃ©able 6-Inch Premium pour hommes','en_US':'Men 6-Inch Premium Waterproof Boots','en_CA':'Botte impermÃ©able 6-Inch Premium pour hommes'}"
+	}
+]

@@ -1,0 +1,116 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "partNumber": {
+      "type": "string"
+    },
+    "mfPartNumber": {
+      "type": "null"
+    },
+    "mfName": {
+      "type": "null"
+    },
+    "buyable": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "name": {
+      "type": "null"
+    },
+    "shortDescription": {
+      "type": "object",
+      "properties": {
+        "en_US": {
+          "type": "string"
+        },
+        "en_CA": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en_US",
+        "en_CA"
+      ]
+    },
+    "longDescription": {
+      "type": "object",
+      "properties": {
+        "en_US": {
+          "type": "string"
+        },
+        "en_CA": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en_US",
+        "en_CA"
+      ]
+    },
+    "thumbnail": {
+      "type": "null"
+    },
+    "fullImage": {
+      "type": "null"
+    },
+    "heroImage": {
+      "type": "null"
+    },
+    "searchKeywords": {
+      "type": "string"
+    },
+    "auxDescription1": {
+      "type": "null"
+    },
+    "auxDescription2": {
+      "type": "null"
+    },
+    "published": {
+      "type": "null"
+    },
+    "xupc": {
+      "type": "null"
+    },
+    "masterCategory": {
+      "type": "null"
+    },
+    "sequence": {
+      "type": "null"
+    },
+    "commonAttributes": {
+      "type": "null"
+    },
+    "xtaxCode": {
+      "type": "null"
+    }
+  },
+  "required": [
+    "partNumber",
+    "mfPartNumber",
+    "mfName",
+    "buyable",
+    "startDate",
+    "endDate",
+    "name",
+    "shortDescription",
+    "longDescription",
+    "thumbnail",
+    "fullImage",
+    "heroImage",
+    "searchKeywords",
+    "auxDescription1",
+    "auxDescription2",
+    "published",
+    "xupc",
+    "masterCategory",
+    "sequence",
+    "commonAttributes",
+    "xtaxCode"
+  ]
+}

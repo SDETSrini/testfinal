@@ -1,0 +1,52 @@
+{
+
+        "partNumber": "BA1HZ7025",
+        "type": "Bundle",
+        "parent": "",
+        "Sequence": "18",
+        "MasterCategory": "MEN",
+        "MfPartnumber": "",
+        "Name": {
+                "en_US": "Men's Timberland PRO&#174; Work Warrior Ripstop Utility Pant_bundle",
+                "en_CA": "Men's Timberland PRO&#174; Work Warrior Ripstop Utility Pant_bundle"
+            }
+        ,
+        "shortDescription": {
+                "en_US": "Shop Timberland PRO&#174; for men's work pants and ripstop cargo pants.",
+                "en_CA": "Shop Timberland PRO&#174; for men's work pants and ripstop cargo pants."
+            }
+        ,
+        "longDescription": {
+                "en_US": "Shop Timberland PRO&#174; for men's work pants and ripstop cargo pants.",
+                "en_CA": "Shop Timberland PRO&#174; for men's work pants and ripstop cargo pants."
+            }
+        ,
+        "HeroImage": "http://images.timberland.com/is/image/timberland/A1HZ4015-HERO",
+        "buyable": "1",
+        "x_upc": "",
+        "x_tax_code": "",
+        "searchKeywords": "Timberland,A1HZ4,A1HZ4015,men's timberland pro work warrior ripstop utility pant,mens work pants,mens canvas work pants,timberland pro work pants,timberland mens pants,pants for men,work pants for men,mens canvas pants",
+        "AuxDesc1": {
+                "en_US": "Men's Timberland PRO&#174; Work Warrior Ripstop Utility Pant",
+                "en_CA": "Men's Timberland PRO&#174; Work Warrior Ripstop Utility Pant"
+            }
+        ,
+        "AuxDesc2": {
+                "en_US": "Durable 100% cotton ripstop fabric|Ripstop pockets for added durability; reinforced back patch pockets and two side cargo pockets for holding your gear|Reinforced belt loopsImported",
+                "en_CA": "Durable 100% cotton ripstop fabric|Ripstop pockets for added durability; reinforced back patch pockets and two side cargo pockets for holding your gear|Reinforced belt loopsImported"
+            }
+        ,
+        "startDate": "",
+        "endDate": "",
+        "Color_Code": "Wheat Nubuck",
+        "URL Color": "231|WHEAT",
+        "MasterStyleID": "A1OI3",
+        "productLongTitle": "TB0A1OI3231",
+        "Tech_Icons": ["4", "30", "18", "15"],
+        "Master Catalog Parent": "MEN_FOOTWEAR",
+        "Style Color": "TB0A1OI3231",
+        "Page Title": "Timberland | Men's Davis Square Mixed-Media Chukka Shoes",
+        "Tax Code": "PC040144",
+        "Size Chart": "123|FTW_Shoe"
+
+    }
